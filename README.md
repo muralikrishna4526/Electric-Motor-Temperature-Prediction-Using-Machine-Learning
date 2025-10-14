@@ -27,9 +27,6 @@ After comparison, the **Decision Tree Regressor** showed the best performance an
 
 ---
 
-
----
-
 ### 📊 Dataset & Model
 
 The dataset and trained model are large files, so they are hosted externally.
