@@ -12,9 +12,6 @@ It helps in **preventive maintenance**, avoiding overheating, and improving the 
 * Machine Learning–based temperature prediction
 * Flask web interface for manual input
 * Simple and user-friendly HTML frontend
-* Model trained and evaluated on real motor data
-* Scalable and ready for cloud deployment
-
 ---
 
 ### 🧠 Algorithms Used
@@ -27,29 +24,6 @@ We trained and compared the following regression algorithms:
 * Support Vector Regressor (SVR)
 
 After comparison, the **Decision Tree Regressor** showed the best performance and was selected as the final model.
-
----
-
-### 📂 Project Structure
-
-```
-Electric_Motor_Temperature_Prediction/
-│
-├── app.py
-├── requirements.txt
-├── templates/
-│   ├── manual_predict.html
-│   └── glossary.html
-│
-├── static/
-│   ├── styles.css
-│   └── motor1.gif
-│
-├── model.save
-├── transform.save
-├── measures_v2.csv
-└── README.md
-```
 
 ---
 
