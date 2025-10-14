@@ -27,24 +27,6 @@ After comparison, the **Decision Tree Regressor** showed the best performance an
 
 ---
 
-### 💡 How to Run
-
-1. Install dependencies
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-2. Run the Flask app
-
-   ```
-   python app.py
-   ```
-
-3. Open your browser and go to
-   👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
-
-4. Enter motor parameters and click **Predict** to see the temperature output.
 
 ---
 
