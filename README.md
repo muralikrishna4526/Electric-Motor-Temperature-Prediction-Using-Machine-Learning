@@ -38,7 +38,6 @@ You can download them here:
 ---
 
 ## 🎥 Demo Video
-
 You can watch the demo video here:  
 [▶️ Watch Demo on Google Drive](https://drive.google.com/file/d/1Wio6vez0JJEsjJNsqaY8WEKwcijJY35T/view?usp=sharing)
 
