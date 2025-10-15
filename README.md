@@ -40,6 +40,7 @@ You can download them here:
 ### 📸 Demo
 
 * GitHub Repository: [https://github.com/muralikrishna4526/Electric-Motor-Temperature-Prediction](#)
+  
 * Demo Video: [https://drive.google.com/file/d/1Wio6vez0JJEsjJNsqaY8WEKwcijJY35T/view?usp=sharing](#)
 
 ---
