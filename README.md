@@ -41,7 +41,10 @@ You can download them here:
 
 * GitHub Repository: [https://github.com/muralikrishna4526/Electric-Motor-Temperature-Prediction](#)
   
-* Demo Video: [https://drive.google.com/file/d/1Wio6vez0JJEsjJNsqaY8WEKwcijJY35T/view?usp=sharing](#)
+## 🎥 Demo Video
+
+You can watch the demo video here:  
+[▶️ Watch Demo on Google Drive](https://drive.google.com/file/d/1Wio6vez0JJEsjJNsqaY8WEKwcijJY35T/view?usp=sharing)
 
 ---
 
